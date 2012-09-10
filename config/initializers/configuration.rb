@@ -1,0 +1,1 @@
+configatron.api_request.token = "[YOUR-API-TOKEN]"
